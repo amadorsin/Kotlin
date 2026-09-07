@@ -25,4 +25,3 @@ class GestorCentros {
         return Lista.find {it.id == id}
     }
 }
-
